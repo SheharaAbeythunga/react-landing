@@ -25,7 +25,7 @@ function NavBar() {
           text: "Home",
           icon: <HomeIcon />,
         },
-        {
+        { 
           text: "About",
           icon: <InfoIcon />,
         },
