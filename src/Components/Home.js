@@ -1,5 +1,6 @@
 import React from "react";
 import NavBar from "./NavBar";
+
 import BannerBackground from "../Assests/home-banner-background.png";
 import BannerImage from "../Assests/home-banner-image.png";
 import { FiArrowRight } from "react-icons/fi";
@@ -30,6 +31,7 @@ const Home = () => {
           <img src={BannerImage} alt="" />
         </div>
       </div>
+     
     </div>
   );
 };
